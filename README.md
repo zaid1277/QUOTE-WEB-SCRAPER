@@ -127,13 +127,7 @@ text,author,tags,scraped_at
 - Only scrape publicly available data
 - Check the website's Terms of Service before scraping
 
-## Future Enhancements
 
-- Add support for more websites
-- Implement database storage
-- Add command-line arguments
-- Create data visualization
-- Add unit tests
 
 ## License
 
@@ -141,10 +135,8 @@ This is a learning project and is free to use and modify.
 
 ## Author
 
-[Your Name]
-- GitHub: [Your GitHub]
-- LinkedIn: [Your LinkedIn]
+Author: Zaid Mohamed
 
----
+- GitHub: https://github.com/zaid1277
+- LinkedIn: https://www.linkedin.com/in/zaid-mohamed-279bb0278/
 
-**Note**: This project demonstrates fundamental web scraping skills including HTTP requests, HTML parsing, data extraction, and file I/O operations.
